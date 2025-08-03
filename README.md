@@ -53,4 +53,5 @@ The dashboard presents monthly sales data along with country and regional breakd
 - `Sale_Distribution_Dashboard.xlsx`: Main Excel file
 
 ---
-
+## Dashoard
+https://github.com/afiabasri/Sale-Distribution-Dashboard-with-Excel/blob/main/sale%20dashboard%20excel.png
